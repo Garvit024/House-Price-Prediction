@@ -21,10 +21,15 @@
     'Address': Address of the houses.
 
 # Tools:-
+
   Python
+  
   Numpy
+  
   Pandas
+  
   Matplotlib
+  
   Scikit-learn
   
 # Conclusion:-
@@ -38,7 +43,7 @@
   Command: Anaconda Prompt 
   (Jupyter Notebook)
   
-# Author OF the Project
+# Project Author
 
   Garvit Gupta
 
